@@ -41,47 +41,241 @@ Hi 👋, I'm Sivaranjani</h1>
 
 ---
 
-## 🛠️ Tech Stack  
+<!-- 🔥 DARK THEME GRID + HOVER EFFECTS + ICONS -->
 
-### 🌐 Frontend  
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-</div>
+<style>
+  .tech-section {
+    background-color: #0d1117;
+    padding: 20px;
+    border-radius: 12px;
+  }
 
-### 🖥️ Backend  
-<div>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
+  .tech-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+  }
 
-### 🛠️ Tools  
-<div>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  .tech-item {
+    background: #161b22;
+    padding: 18px;
+    border-radius: 10px;
+    text-align: center;
+    transition: 0.3s ease-in-out;
+    border: 1px solid #30363d;
+  }
+
+  .tech-item:hover {
+    transform: translateY(-6px);
+    background: #21262d;
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.08);
+  }
+
+  .tech-item img {
+    width: 45px;
+    height: 45px;
+    margin-bottom: 10px;
+  }
+
+  .tech-title {
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+  }
+</style>
+
+---
+
+<div class="tech-section">
+
+## 🚀 Tech Stack 
+
+### 🌐 Frontend
+<div class="tech-grid">
+  
+  <div class="tech-item">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <div class="tech-title">HTML</div>
+  </div>
+
+  <div class="tech-item">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <div class="tech-title">CSS</div>
+  </div>
+
+  <div class="tech-item">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <div class="tech-title">JavaScript</div>
+  </div>
+
+  <div class="tech-item">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+    <div class="tech-title">Angular</div>
+  </div>
+
 </div>
 
 ---
 
-## 📊 GitHub Stats  
+### 🖥️ Backend
+<div class="tech-grid">
+  
+  <div class="tech-item">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <div class="tech-title">Java</div>
+  </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sivaranjani784&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sivaranjani784&theme=tokyonight" height="180" />
-</p>
+   <div class="tech-item">
+    <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png">
+    <div class="tech-title">JDBC</div>
+  </div>
+
+
+  <div class="tech-item">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+    <div class="tech-title">Spring</div>
+  </div>
+
+  <div class="tech-item">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+    <div class="tech-title">Spring Boot</div>
+  </div>
+
+  <div class="tech-item">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png">
+    <div class="tech-title">Microservices</div>
+  </div>
+
+ ### 🛢️ DataBase
+  <div class="tech-item">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <div class="tech-title">MySQL</div>
+  </div>
+
+</div>
 
 ---
+
+### 🛠️ Tools
+<div class="tech-grid">
+  
+  <div class="tech-item">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <div class="tech-title">VS Code</div>
+  </div>
+
+  <div class="tech-item">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+    <div class="tech-title">IntelliJ IDEA</div>
+  </div>
+
+  <div class="tech-item">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg">
+    <div class="tech-title">Eclipse</div>
+  </div>
+
+
+</div>
+
+</div>
+
+
+<div style="text-align:center; margin-top:40px;">
+
+  <h2 style="
+      color:white;
+      font-size:28px;
+      font-weight:800;
+      margin-bottom:20px;
+  ">
+    📊 GitHub Stats
+  </h2>
+
+  <div style="
+      display:flex;
+      justify-content:center;
+      flex-wrap:wrap;
+      gap:20px;
+  ">
+
+   
+  <img 
+      src="https://github-readme-stats.vercel.app/api?username=Sivaranjani784&show_icons=true&theme=tokyonight" 
+      alt="GitHub Stats"
+      style="
+        width:380px;
+        border-radius:12px;
+        box-shadow:0 0 12px rgba(255,255,255,0.15);
+        transition:0.3s;
+      "
+      onmouseover="this.style.transform='scale(1.03)'"
+      onmouseout="this.style.transform='scale(1)'"
+    />
+
+   
+  
+  <img 
+      src="https://github-readme-streak-stats.herokuapp.com?user=Sivaranjani784&theme=tokyonight&date_format=j%20M%5B%20Y%5D"
+      alt="GitHub Streak"
+      style="
+        width:380px;
+        border-radius:12px;
+        box-shadow:0 0 12px rgba(255,255,255,0.15);
+        transition:0.3s;
+      "
+      onmouseover="this.style.transform='scale(1.03)'"
+      onmouseout="this.style.transform='scale(1)'"
+    />
+
+  </div>
+</div>
 
 ## 🔗 Connect With Me  
 
+### ♾️ LinkedIn
 <p>
-  <a href="https://www.linkedin.com/in/sivaranjani-kamani">
+  <a href="www.linkedin.com/in/
+sivaranjani-kamani-s784
+">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
+<
+<p>
+  ### ✉️ Email  
+<a href="mailto:sivaranjanikamini@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red" />
+</a>
+</p>
 
----
- ✨**Thanks for visiting my profile!**💐
+
+
+<div style="text-align:center; margin-top:30px;">
+
+  <p style="
+      font-size:24px;
+      color:white;
+      font-weight:700;
+      animation: fadeText 2s infinite alternate;
+  ">
+    ✨ Thank You for Visiting My Profile! 💐
+  </p>
+
+</div>
+
+<!-- INLINE KEYFRAME ANIMATION (GITHUB SAFE) -->
+<img src="" onerror="
+  const style = document.createElement('style');
+  style.innerHTML =
+  `@keyframes fadeText {
+      from {opacity:0.4; transform:scale(0.97);}
+      to {opacity:1; transform:scale(1);}
+   }`;
+  document.head.appendChild(style);
+">
+
+
+
 
