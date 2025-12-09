@@ -7,22 +7,7 @@
       margin-bottom:10px;
       animation: fadeIn 2s ease-in-out;
      text-align: center;
-    font-size: 30px;
-    font-weight: 900;
-    color: #ffffff;
-     background: #3e17ed;
-    background: linear-gradient(
-        rgba(42,123,155,1)0px,
-        rgba(87,199,133,1)50px,
-        rgba(237,221,83,1)100px
-    );
-    padding: 25px;
-    border-radius: 20px;
-    margin: 15px auto;
-    width:520px;
-    border:3px solid rgb(65, 166, 217);
-    box-shadow: 2px 4px 30px rgb(0,152,255);
-
+    
   ">
 
 Hi 👋, I'm Sivaranjani</h1>
@@ -64,7 +49,7 @@ Hi 👋, I'm Sivaranjani</h1>
 ### 🌐 Frontend
 <div style="
   display:grid;
-  grid-template-columns:repeat(auto-fit, minmax(120px, 1fr));
+  grid-template-row:repeat(auto-fit, minmax(120px, 1fr));
   gap:20px;
   margin-top:20px;
 ">
@@ -142,7 +127,7 @@ Hi 👋, I'm Sivaranjani</h1>
 ### 🖥️ Backend
 <div style="
   display:grid;
-  grid-template-columns:repeat(auto-fit, minmax(120px, 1fr));
+  grid-template-row:repeat(auto-fit, minmax(120px, 1fr));
   gap:20px;
   margin-top:20px;
 ">
@@ -196,7 +181,7 @@ Hi 👋, I'm Sivaranjani</h1>
  ### 🛢️ DataBase
  <div style="
   display:grid;
-  grid-template-columns:repeat(auto-fit, minmax(120px, 1fr));
+  grid-template-row:repeat(auto-fit, minmax(120px, 1fr));
   gap:20px;
   margin-top:20px;
 ">
@@ -215,7 +200,7 @@ Hi 👋, I'm Sivaranjani</h1>
 ### 🛠️ Tools
 <div style="
   display:grid;
-  grid-template-columns:repeat(auto-fit, minmax(120px, 1fr));
+  grid-template-row:repeat(auto-fit, minmax(120px, 1fr));
   gap:20px;
   margin-top:20px;
 ">
