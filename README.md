@@ -11,12 +11,7 @@
 Hi 👋, I'm Sivaranjani</h1>
 <h3 align="center">🎯Aspiring Full Stack Web Developer</h3>
 </div>
-<style>
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(-10px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-</style>
+
 
 
 <p align="center">
@@ -41,78 +36,86 @@ Hi 👋, I'm Sivaranjani</h1>
 
 ---
 
-<!-- 🔥 DARK THEME GRID + HOVER EFFECTS + ICONS -->
 
-<style>
-  .tech-section {
-    background-color: #0d1117;
-    padding: 20px;
-    border-radius: 12px;
-  }
 
-  .tech-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
-    gap: 20px;
-    margin-top: 20px;
-  }
+<div class="tech-section" style="background:#0d1117; padding:20px; border-radius:12px;>
 
-  .tech-item {
-    background: #161b22;
-    padding: 18px;
-    border-radius: 10px;
-    text-align: center;
-    transition: 0.3s ease-in-out;
-    border: 1px solid #30363d;
-  }
+## 🚀 Tech Stack
 
-  .tech-item:hover {
-    transform: translateY(-6px);
-    background: #21262d;
-    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.08);
-  }
 
-  .tech-item img {
-    width: 45px;
-    height: 45px;
-    margin-bottom: 10px;
-  }
-
-  .tech-title {
-    color: #ffffff;
-    font-size: 15px;
-    font-weight: 600;
-    letter-spacing: 0.5px;
-  }
-</style>
-
----
-
-<div class="tech-section">
-
-## 🚀 Tech Stack 
 
 ### 🌐 Frontend
-<div class="tech-grid">
-  
-  <div class="tech-item">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <div class="tech-title">HTML</div>
+<div style="
+  display:grid;
+  grid-template-columns:repeat(auto-fit, minmax(120px, 1fr));
+  gap:20px;
+  margin-top:20px;
+">
+
+  <!-- HTML -->
+  <div style="
+    background:#161b22;
+    padding:18px;
+    border-radius:10px;
+    text-align:center;
+    border:1px solid #30363d;
+    transition:0.3s;
+  " onmouseover="this.style.transform='translateY(-6px)'"
+    onmouseout="this.style.transform='translateY(0)'">
+    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+         style="width:55px; height:55px; margin-bottom:10px;">
+    <div style="color:white; font-size:15px; font-weight:600;">HTML</div>
   </div>
 
-  <div class="tech-item">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    <div class="tech-title">CSS</div>
+  <!-- CSS -->
+  <div style="
+    background:#161b22;
+    padding:18px;
+    border-radius:10px;
+    text-align:center;
+    border:1px solid #30363d;
+    transition:0.3s;
+  " onmouseover="this.style.transform='translateY(-6px)'"
+    onmouseout="this.style.transform='translateY(0)'">
+    
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+         style="width:55px; height:55px; margin-bottom:10px;">
+    <div style="color:white; font-size:15px; font-weight:600;">CSS</div>
   </div>
 
-  <div class="tech-item">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <div class="tech-title">JavaScript</div>
+  <!-- JavaScript -->
+  <div style="
+    background:#161b22;
+    padding:18px;
+    border-radius:10px;
+    text-align:center;
+    border:1px solid #30363d;
+    transition:0.3s;
+  " onmouseover="this.style.transform='translateY(-6px)'"
+    onmouseout="this.style.transform='translateY(0)'">
+    
+   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+         style="width:55px; height:55px; margin-bottom:10px;">
+    <div style="color:white; font-size:15px; font-weight:600;">JavaScript</div>
   </div>
 
-  <div class="tech-item">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-    <div class="tech-title">Angular</div>
+  <!-- Angular -->
+  <div style="
+    background:#161b22;
+    padding:18px;
+    border-radius:10px;
+    text-align:center;
+    border:1px solid #30363d;
+    transition:0.3s;
+  " onmouseover="this.style.transform='translateY(-6px)'"
+    onmouseout="this.style.transform='translateY(0)'">
+    
+    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
+         style="width:55px; height:55px; margin-bottom:10px;">
+    <div style="color:white; font-size:15px; font-weight:600;">Angular</div>
   </div>
 
 </div>
@@ -120,38 +123,72 @@ Hi 👋, I'm Sivaranjani</h1>
 ---
 
 ### 🖥️ Backend
-<div class="tech-grid">
-  
-  <div class="tech-item">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <div class="tech-title">Java</div>
+<div style="
+  display:grid;
+  grid-template-columns:repeat(auto-fit, minmax(120px, 1fr));
+  gap:20px;
+  margin-top:20px;
+">
+
+  <!-- Java -->
+  <div style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
+       onmouseover="this.style.transform='translateY(-6px)'"
+       onmouseout="this.style.transform='translateY(0)'">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+         style="width:55px; height:55px; margin-bottom:10px;">
+    <div style="color:white; font-size:15px; font-weight:600;">Java</div>
   </div>
 
-   <div class="tech-item">
-    <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png">
-    <div class="tech-title">JDBC</div>
+  <!-- Spring -->
+  <div style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
+       onmouseover="this.style.transform='translateY(-6px)'"
+       onmouseout="this.style.transform='translateY(0)'">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
+         style="width:55px; height:55px; margin-bottom:10px;">
+    <div style="color:white; font-size:15px; font-weight:600;">Spring</div>
   </div>
 
-
-  <div class="tech-item">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-    <div class="tech-title">Spring</div>
+  <!-- Spring Boot -->
+  <div style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
+       onmouseover="this.style.transform='translateY(-6px)'"
+       onmouseout="this.style.transform='translateY(0)'">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
+         style="width:55px; height:55px; margin-bottom:10px;">
+    <div style="color:white; font-size:15px; font-weight:600;">Spring Boot</div>
   </div>
 
-  <div class="tech-item">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-    <div class="tech-title">Spring Boot</div>
+  <!-- Microservices -->
+  <div style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
+       onmouseover="this.style.transform='translateY(-6px)'"
+       onmouseout="this.style.transform='translateY(0)'">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+         style="width:55px; height:55px; margin-bottom:10px;">
+    <div style="color:white; font-size:15px; font-weight:600;">Microservices</div>
   </div>
 
-  <div class="tech-item">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png">
-    <div class="tech-title">Microservices</div>
+  <!-- JDBC -->
+  <div style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
+       onmouseover="this.style.transform='translateY(-6px)'"
+       onmouseout="this.style.transform='translateY(0)'">
+    <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png"
+         style="width:55px; height:55px; margin-bottom:10px;">
+    <div style="color:white; font-size:15px; font-weight:600;">JDBC</div>
   </div>
+ </div>
 
  ### 🛢️ DataBase
-  <div class="tech-item">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-    <div class="tech-title">MySQL</div>
+ <div style="
+  display:grid;
+  grid-template-columns:repeat(auto-fit, minmax(120px, 1fr));
+  gap:20px;
+  margin-top:20px;
+">
+  <div style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
+       onmouseover="this.style.transform='translateY(-6px)'"
+       onmouseout="this.style.transform='translateY(0)'">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+         style="width:55px; height:55px; margin-bottom:10px;">
+    <div style="color:white; font-size:15px; font-weight:600;">MySQL</div>
   </div>
 
 </div>
@@ -159,23 +196,48 @@ Hi 👋, I'm Sivaranjani</h1>
 ---
 
 ### 🛠️ Tools
-<div class="tech-grid">
-  
-  <div class="tech-item">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <div class="tech-title">VS Code</div>
+<div style="
+  display:grid;
+  grid-template-columns:repeat(auto-fit, minmax(120px, 1fr));
+  gap:20px;
+  margin-top:20px;
+">
+
+  <!-- VS CODE -->
+  <div style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
+       onmouseover="this.style.transform='translateY(-6px)'"
+       onmouseout="this.style.transform='translateY(0)'">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+         style="width:55px; height:55px; margin-bottom:10px;">
+    <div style="color:white; font-size:15px; font-weight:600;">VS Code</div>
   </div>
 
-  <div class="tech-item">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
-    <div class="tech-title">IntelliJ IDEA</div>
+  <!-- IntelliJ -->
+  <div style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
+       onmouseover="this.style.transform='translateY(-6px)'"
+       onmouseout="this.style.transform='translateY(0)'">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"
+         style="width:55px; height:55px; margin-bottom:10px;">
+    <div style="color:white; font-size:15px; font-weight:600;">IntelliJ IDEA</div>
   </div>
 
-  <div class="tech-item">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg">
-    <div class="tech-title">Eclipse</div>
+  <!-- Eclipse -->
+  <div style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
+       onmouseover="this.style.transform='translateY(-6px)'"
+       onmouseout="this.style.transform='translateY(0)'">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg"
+         style="width:55px; height:55px; margin-bottom:10px;">
+    <div style="color:white; font-size:15px; font-weight:600;">Eclipse</div>
   </div>
 
+  <!-- GitHub -->
+  <div style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
+       onmouseover="this.style.transform='translateY(-6px)'"
+       onmouseout="this.style.transform='translateY(0)'">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+         style="width:55px; height:55px; margin-bottom:10px;">
+    <div style="color:white; font-size:15px; font-weight:600;">GitHub</div>
+  </div>
 
 </div>
 
@@ -242,9 +304,9 @@ sivaranjani-kamani-s784
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
-<
+
+### ✉️ Email  
 <p>
-  ### ✉️ Email  
 <a href="mailto:sivaranjanikamini@gmail.com">
   <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
@@ -264,17 +326,6 @@ sivaranjani-kamani-s784
   </p>
 
 </div>
-
-<!-- INLINE KEYFRAME ANIMATION (GITHUB SAFE) -->
-<img src="" onerror="
-  const style = document.createElement('style');
-  style.innerHTML =
-  `@keyframes fadeText {
-      from {opacity:0.4; transform:scale(0.97);}
-      to {opacity:1; transform:scale(1);}
-   }`;
-  document.head.appendChild(style);
-">
 
 
 
