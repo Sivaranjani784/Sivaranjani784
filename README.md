@@ -6,7 +6,6 @@
       font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
       margin-bottom:10px;
       animation: fadeIn 2s ease-in-out;
-     text-align: center;
     
   ">
 
@@ -37,213 +36,150 @@ Hi 👋, I'm Sivaranjani</h1>
 
 
 ---
-
-
-
-<div class="tech-section" style="background:#0d1117; padding:20px; border-radius:12px;>
+<!-- ⭐ INLINE TECH STACK (Frontend + Backend + Tools) -->
 
 ## 🚀 Tech Stack
 
-
+---
 
 ### 🌐 Frontend
-<div style="
-  display:grid;
-  grid-template-row:repeat(auto-fit, minmax(120px, 1fr));
-  gap:20px;
-  margin-top:20px;
-">
+<div style="display:flex; gap:25px; align-items:center; margin-top:15px;">
 
-  <!-- HTML -->
-  <span style="
-    background:#161b22;
-    padding:18px;
-    border-radius:10px;
-    text-align:center;
-    border:1px solid #30363d;
-    transition:0.3s;
-  " onmouseover="this.style.transform='translateY(-6px)'"
-    onmouseout="this.style.transform='translateY(0)'">
-    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-         style="width:55px; height:55px; margin-bottom:10px;">
-    <div style="color:white; font-size:15px; font-weight:600;">HTML</div>
-  </span>
+  <div style="text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+         style="width:55px; height:55px; transition:0.3s;"
+         onmouseover="this.style.transform='scale(1.2)'"
+         onmouseout="this.style.transform='scale(1)'">
+    <div style="color:white; font-size:14px;">HTML</div>
+  </div>
 
-  <!-- CSS -->
-  <span style="
-    background:#161b22;
-    padding:18px;
-    border-radius:10px;
-    text-align:center;
-    border:1px solid #30363d;
-    transition:0.3s;
-  " onmouseover="this.style.transform='translateY(-6px)'"
-    onmouseout="this.style.transform='translateY(0)'">
-    
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-         style="width:55px; height:55px; margin-bottom:10px;">
-    <div style="color:white; font-size:15px; font-weight:600;">CSS</div>
-  </span>
+  <div style="text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+         style="width:55px; height:55px; transition:0.3s;"
+         onmouseover="this.style.transform='scale(1.2)'"
+         onmouseout="this.style.transform='scale(1)'">
+    <div style="color:white; font-size:14px;">CSS</div>
+  </div>
 
-  <!-- JavaScript -->
-  <span style="
-    background:#161b22;
-    padding:18px;
-    border-radius:10px;
-    text-align:center;
-    border:1px solid #30363d;
-    transition:0.3s;
-  " onmouseover="this.style.transform='translateY(-6px)'"
-    onmouseout="this.style.transform='translateY(0)'">
-    
-   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-         style="width:55px; height:55px; margin-bottom:10px;">
-    <div style="color:white; font-size:15px; font-weight:600;">JavaScript</div>
-  </span>
+  <div style="text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+         style="width:55px; height:55px; transition:0.3s;"
+         onmouseover="this.style.transform='scale(1.2)'"
+         onmouseout="this.style.transform='scale(1)'">
+    <div style="color:white; font-size:14px;">JavaScript</div>
+  </div>
 
-  <!-- Angular -->
-  <span style="
-    background:#161b22;
-    padding:18px;
-    border-radius:10px;
-    text-align:center;
-    border:1px solid #30363d;
-    transition:0.3s;
-  " onmouseover="this.style.transform='translateY(-6px)'"
-    onmouseout="this.style.transform='translateY(0)'">
-    
-    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
-         style="width:55px; height:55px; margin-bottom:10px;">
-    <div style="color:white; font-size:15px; font-weight:600;">Angular</div>
-  </span>
+  <div style="text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" 
+         style="width:55px; height:55px; transition:0.3s;"
+         onmouseover="this.style.transform='scale(1.2)'"
+         onmouseout="this.style.transform='scale(1)'">
+    <div style="color:white; font-size:14px;">Angular</div>
+  </div>
 
 </div>
 
 ---
 
 ### 🖥️ Backend
-<div style="
-  display:grid;
-  grid-template-row:repeat(auto-fit, minmax(120px, 1fr));
-  gap:20px;
-  margin-top:20px;
-">
+<div style="display:flex; gap:25px; align-items:center; margin-top:15px;">
 
-  <!-- Java -->
-  <span style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
-       onmouseover="this.style.transform='translateY(-6px)'"
-       onmouseout="this.style.transform='translateY(0)'">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-         style="width:55px; height:55px; margin-bottom:10px;">
-    <div style="color:white; font-size:15px; font-weight:600;">Java</div>
-  </span>
+  <div style="text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
+         style="width:55px; height:55px; transition:0.3s;"
+         onmouseover="this.style.transform='scale(1.2)'"
+         onmouseout="this.style.transform='scale(1)'">
+    <div style="color:white; font-size:14px;">Java</div>
+  </div>
 
-  <!-- Spring -->
-  <span style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
-       onmouseover="this.style.transform='translateY(-6px)'"
-       onmouseout="this.style.transform='translateY(0)'">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
-         style="width:55px; height:55px; margin-bottom:10px;">
-    <div style="color:white; font-size:15px; font-weight:600;">Spring</div>
-  </span>
+  <div style="text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
+         style="width:55px; height:55px; transition:0.3s;"
+         onmouseover="this.style.transform='scale(1.2)'"
+         onmouseout="this.style.transform='scale(1)'">
+    <div style="color:white; font-size:14px;">Spring</div>
+  </div>
 
-  <!-- Spring Boot -->
-  <span style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
-       onmouseover="this.style.transform='translateY(-6px)'"
-       onmouseout="this.style.transform='translateY(0)'">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
-         style="width:55px; height:55px; margin-bottom:10px;">
-    <div style="color:white; font-size:15px; font-weight:600;">Spring Boot</div>
-  </span>
+  <div style="text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
+         style="width:55px; height:55px; transition:0.3s;"
+         onmouseover="this.style.transform='scale(1.2)'"
+         onmouseout="this.style.transform='scale(1)'">
+    <div style="color:white; font-size:14px;">Spring Boot</div>
+  </div>
 
-  <!-- Microservices -->
-  <span style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
-       onmouseover="this.style.transform='translateY(-6px)'"
-       onmouseout="this.style.transform='translateY(0)'">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
-         style="width:55px; height:55px; margin-bottom:10px;">
-    <div style="color:white; font-size:15px; font-weight:600;">Microservices</div>
-  </span>
+  <div style="text-align:center;">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" 
+         style="width:55px; height:55px; transition:0.3s;"
+         onmouseover="this.style.transform='scale(1.2)'"
+         onmouseout="this.style.transform='scale(1)'">
+    <div style="color:white; font-size:14px;">Microservices</div>
+  </div>
 
-  <!-- JDBC -->
-  <span style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
-       onmouseover="this.style.transform='translateY(-6px)'"
-       onmouseout="this.style.transform='translateY(0)'">
-    <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png"
-         style="width:55px; height:55px; margin-bottom:10px;">
-    <div style="color:white; font-size:15px; font-weight:600;">JDBC</div>
-  </span>
- </div>
+  <div style="text-align:center;">
+    <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" 
+         style="width:55px; height:55px; transition:0.3s;"
+         onmouseover="this.style.transform='scale(1.2)'"
+         onmouseout="this.style.transform='scale(1)'">
+    <div style="color:white; font-size:14px;">JDBC</div>
+  </div>
 
- ### 🛢️ DataBase
- <div style="
-  display:grid;
-  grid-template-row:repeat(auto-fit, minmax(120px, 1fr));
-  gap:20px;
-  margin-top:20px;
-">
-  <span style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
-       onmouseover="this.style.transform='translateY(-6px)'"
-       onmouseout="this.style.transform='translateY(0)'">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-         style="width:55px; height:55px; margin-bottom:10px;">
-    <div style="color:white; font-size:15px; font-weight:600;">MySQL</div>
-  </span>
+  <div style="text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+         style="width:55px; height:55px; transition:0.3s;"
+         onmouseover="this.style.transform='scale(1.2)'"
+         onmouseout="this.style.transform='scale(1)'">
+    <div style="color:white; font-size:14px;">MySQL</div>
+  </div>
 
 </div>
 
 ---
 
 ### 🛠️ Tools
-<div style="
-  display:grid;
-  grid-template-row:repeat(auto-fit, minmax(120px, 1fr));
-  gap:20px;
-  margin-top:20px;
-">
+<div style="display:flex; gap:25px; align-items:center; margin-top:15px;">
 
-  <!-- VS CODE -->
-  <span style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
-       onmouseover="this.style.transform='translateY(-6px)'"
-       onmouseout="this.style.transform='translateY(0)'">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-         style="width:55px; height:55px; margin-bottom:10px;">
-    <div style="color:white; font-size:15px; font-weight:600;">VS Code</div>
-  </span>
+  <div style="text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
+         style="width:55px; height:55px; transition:0.3s;"
+         onmouseover="this.style.transform='scale(1.2)'"
+         onmouseout="this.style.transform='scale(1)'">
+    <div style="color:white; font-size:14px;">VS Code</div>
+  </div>
 
-  <!-- IntelliJ -->
-  <span style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
-       onmouseover="this.style.transform='translateY(-6px)'"
-       onmouseout="this.style.transform='translateY(0)'">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"
-         style="width:55px; height:55px; margin-bottom:10px;">
-    <div style="color:white; font-size:15px; font-weight:600;">IntelliJ IDEA</div>
-  </span>
+  <div style="text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" 
+         style="width:55px; height:55px; transition:0.3s;"
+         onmouseover="this.style.transform='scale(1.2)'"
+         onmouseout="this.style.transform='scale(1)'">
+    <div style="color:white; font-size:14px;">IntelliJ</div>
+  </div>
 
-  <!-- Eclipse -->
-  <span style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
-       onmouseover="this.style.transform='translateY(-6px)'"
-       onmouseout="this.style.transform='translateY(0)'">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg"
-         style="width:55px; height:55px; margin-bottom:10px;">
-    <div style="color:white; font-size:15px; font-weight:600;">Eclipse</div>
-  </span>
+  <div style="text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" 
+         style="width:55px; height:55px; transition:0.3s;"
+         onmouseover="this.style.transform='scale(1.2)'"
+         onmouseout="this.style.transform='scale(1)'">
+    <div style="color:white; font-size:14px;">Eclipse</div>
+  </div>
 
-  <!-- GitHub -->
-  <span style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
-       onmouseover="this.style.transform='translateY(-6px)'"
-       onmouseout="this.style.transform='translateY(0)'">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-         style="width:55px; height:55px; margin-bottom:10px;">
-    <div style="color:white; font-size:15px; font-weight:600;">GitHub</div>
-  </span>
+  <div style="text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+         style="width:55px; height:55px; transition:0.3s;"
+         onmouseover="this.style.transform='scale(1.2)'"
+         onmouseout="this.style.transform='scale(1)'">
+    <div style="color:white; font-size:14px;">GitHub</div>
+  </div>
 
 </div>
 
-</div>
+
+
+
+
+
+---
+
 
 
 <div style="text-align:center; margin-top:40px;">
@@ -265,9 +201,9 @@ Hi 👋, I'm Sivaranjani</h1>
   ">
 
    
-  <img 
-  src=" https://github-readme-stats.vercel.app/api?username=Sivaranjani784&show_icons=true&theme=tokyonight"
-
+  <img  
+  src="https://github-readme-stats.vercel.app/api?username=Sivaranjani784&show_icons=true&theme=tokyonight
+"
   alt="GitHub Stats"
       style="
         width:380px;
