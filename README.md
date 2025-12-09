@@ -6,10 +6,9 @@
       font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
       margin-bottom:10px;
       animation: fadeIn 2s ease-in-out;
-    
   ">
-
-Hi 👋, I'm Sivaranjani</h1>
+    Hi 👋, I'm Sivaranjani
+  </h1>
 <h3 align="center">🎯Aspiring Full Stack Web Developer</h3>
 </div>
 
@@ -42,143 +41,86 @@ Hi 👋, I'm Sivaranjani</h1>
 
 ---
 
-### 🌐 Frontend
-<div style="display:flex; gap:25px; align-items:center; margin-top:15px;">
+<!-- ⭐ COMPLETE INLINE TECH STACK SECTION -->
 
-  <div style="text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-         style="width:55px; height:55px; transition:0.3s;"
-         onmouseover="this.style.transform='scale(1.2)'"
-         onmouseout="this.style.transform='scale(1)'">
-    <div style="color:white; font-size:14px;">HTML</div>
-  </div>
+<div style="margin-top:20px;">
 
-  <div style="text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-         style="width:55px; height:55px; transition:0.3s;"
-         onmouseover="this.style.transform='scale(1.2)'"
-         onmouseout="this.style.transform='scale(1)'">
-    <div style="color:white; font-size:14px;">CSS</div>
-  </div>
+<!-- 🎨 FRONTEND -->
+<h3>🎨 Frontend Technologies</h3>
+<p style="display:flex; gap:18px; align-items:center;">
 
-  <div style="text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-         style="width:55px; height:55px; transition:0.3s;"
-         onmouseover="this.style.transform='scale(1.2)'"
-         onmouseout="this.style.transform='scale(1)'">
-    <div style="color:white; font-size:14px;">JavaScript</div>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+       width="40" height="40" style="border-radius:6px;">
+       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+       width="40" height="40" style="border-radius:6px;">
+       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+       width="40" height="40" style="border-radius:6px;">
+       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" 
+       width="40" height="40" style="border-radius:6px;">
 
-  <div style="text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" 
-         style="width:55px; height:55px; transition:0.3s;"
-         onmouseover="this.style.transform='scale(1.2)'"
-         onmouseout="this.style.transform='scale(1)'">
-    <div style="color:white; font-size:14px;">Angular</div>
-  </div>
+</p>
 
-</div>
+<br/>
 
----
+<!-- ⚙️ BACKEND -->
+<h3>⚙️ Backend Technologies</h3>
+<p style="display:flex; gap:18px; align-items:center;">
 
-### 🖥️ Backend
-<div style="display:flex; gap:25px; align-items:center; margin-top:15px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
+       width="40" height="40" style="border-radius:6px;">
+       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
+       width="40" height="40" style="border-radius:6px;">
+       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
+       width="40" height="40" style="border-radius:6px;" title="Spring Boot">
+       
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" 
+       width="40" height="40" style="border-radius:6px;" title="Microservices">
+       
+  <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" 
+       width="40" height="40" style="border-radius:6px;" title="JDBC">
 
-  <div style="text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
-         style="width:55px; height:55px; transition:0.3s;"
-         onmouseover="this.style.transform='scale(1.2)'"
-         onmouseout="this.style.transform='scale(1)'">
-    <div style="color:white; font-size:14px;">Java</div>
-  </div>
+</p>
 
-  <div style="text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
-         style="width:55px; height:55px; transition:0.3s;"
-         onmouseover="this.style.transform='scale(1.2)'"
-         onmouseout="this.style.transform='scale(1)'">
-    <div style="color:white; font-size:14px;">Spring</div>
-  </div>
+<br/>
 
-  <div style="text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
-         style="width:55px; height:55px; transition:0.3s;"
-         onmouseover="this.style.transform='scale(1.2)'"
-         onmouseout="this.style.transform='scale(1)'">
-    <div style="color:white; font-size:14px;">Spring Boot</div>
-  </div>
+<!-- 🗄️ DATABASE -->
+<h3>🗄️ Database Technologies</h3>
+<p style="display:flex; gap:18px; align-items:center;">
 
-  <div style="text-align:center;">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" 
-         style="width:55px; height:55px; transition:0.3s;"
-         onmouseover="this.style.transform='scale(1.2)'"
-         onmouseout="this.style.transform='scale(1)'">
-    <div style="color:white; font-size:14px;">Microservices</div>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+       width="40" height="40" style="border-radius:6px;">
 
-  <div style="text-align:center;">
-    <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" 
-         style="width:55px; height:55px; transition:0.3s;"
-         onmouseover="this.style.transform='scale(1.2)'"
-         onmouseout="this.style.transform='scale(1)'">
-    <div style="color:white; font-size:14px;">JDBC</div>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" 
+       width="40" height="40" style="border-radius:6px;">
 
-  <div style="text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-         style="width:55px; height:55px; transition:0.3s;"
-         onmouseover="this.style.transform='scale(1.2)'"
-         onmouseout="this.style.transform='scale(1)'">
-    <div style="color:white; font-size:14px;">MySQL</div>
-  </div>
+</p>
+
+<br/>
+
+<!-- 🛠️ TOOLS -->
+<h3>🛠️ Tools</h3>
+<p style="display:flex; gap:18px; align-items:center;">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
+       width="40" height="40" style="border-radius:6px;">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" 
+       width="40" height="40" style="border-radius:6px;">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" 
+       width="40" height="40" style="border-radius:6px;">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+       width="40" height="40" style="border-radius:6px;">
+
+</p>
 
 </div>
-
----
-
-### 🛠️ Tools
-<div style="display:flex; gap:25px; align-items:center; margin-top:15px;">
-
-  <div style="text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
-         style="width:55px; height:55px; transition:0.3s;"
-         onmouseover="this.style.transform='scale(1.2)'"
-         onmouseout="this.style.transform='scale(1)'">
-    <div style="color:white; font-size:14px;">VS Code</div>
-  </div>
-
-  <div style="text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" 
-         style="width:55px; height:55px; transition:0.3s;"
-         onmouseover="this.style.transform='scale(1.2)'"
-         onmouseout="this.style.transform='scale(1)'">
-    <div style="color:white; font-size:14px;">IntelliJ</div>
-  </div>
-
-  <div style="text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" 
-         style="width:55px; height:55px; transition:0.3s;"
-         onmouseover="this.style.transform='scale(1.2)'"
-         onmouseout="this.style.transform='scale(1)'">
-    <div style="color:white; font-size:14px;">Eclipse</div>
-  </div>
-
-  <div style="text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-         style="width:55px; height:55px; transition:0.3s;"
-         onmouseover="this.style.transform='scale(1.2)'"
-         onmouseout="this.style.transform='scale(1)'">
-    <div style="color:white; font-size:14px;">GitHub</div>
-  </div>
-
-</div>
-
-
-
-
-
-
----
 
 
 
