@@ -6,6 +6,23 @@
       font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
       margin-bottom:10px;
       animation: fadeIn 2s ease-in-out;
+     text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+    color: #ffffff;
+     background: #3e17ed;
+    background: linear-gradient(
+        rgba(42,123,155,1)0px,
+        rgba(87,199,133,1)50px,
+        rgba(237,221,83,1)100px
+    );
+    padding: 25px;
+    border-radius: 20px;
+    margin: 15px auto;
+    width:520px;
+    border:3px solid rgb(65, 166, 217);
+    box-shadow: 2px 4px 30px rgb(0,152,255);
+
   ">
 
 Hi 👋, I'm Sivaranjani</h1>
@@ -53,7 +70,7 @@ Hi 👋, I'm Sivaranjani</h1>
 ">
 
   <!-- HTML -->
-  <div style="
+  <span style="
     background:#161b22;
     padding:18px;
     border-radius:10px;
@@ -66,10 +83,10 @@ Hi 👋, I'm Sivaranjani</h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
          style="width:55px; height:55px; margin-bottom:10px;">
     <div style="color:white; font-size:15px; font-weight:600;">HTML</div>
-  </div>
+  </span>
 
   <!-- CSS -->
-  <div style="
+  <span style="
     background:#161b22;
     padding:18px;
     border-radius:10px;
@@ -82,10 +99,10 @@ Hi 👋, I'm Sivaranjani</h1>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
          style="width:55px; height:55px; margin-bottom:10px;">
     <div style="color:white; font-size:15px; font-weight:600;">CSS</div>
-  </div>
+  </span>
 
   <!-- JavaScript -->
-  <div style="
+  <span style="
     background:#161b22;
     padding:18px;
     border-radius:10px;
@@ -99,10 +116,10 @@ Hi 👋, I'm Sivaranjani</h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
          style="width:55px; height:55px; margin-bottom:10px;">
     <div style="color:white; font-size:15px; font-weight:600;">JavaScript</div>
-  </div>
+  </span>
 
   <!-- Angular -->
-  <div style="
+  <span style="
     background:#161b22;
     padding:18px;
     border-radius:10px;
@@ -116,7 +133,7 @@ Hi 👋, I'm Sivaranjani</h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
          style="width:55px; height:55px; margin-bottom:10px;">
     <div style="color:white; font-size:15px; font-weight:600;">Angular</div>
-  </div>
+  </span>
 
 </div>
 
@@ -131,49 +148,49 @@ Hi 👋, I'm Sivaranjani</h1>
 ">
 
   <!-- Java -->
-  <div style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
+  <span style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
        onmouseover="this.style.transform='translateY(-6px)'"
        onmouseout="this.style.transform='translateY(0)'">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
          style="width:55px; height:55px; margin-bottom:10px;">
     <div style="color:white; font-size:15px; font-weight:600;">Java</div>
-  </div>
+  </span>
 
   <!-- Spring -->
-  <div style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
+  <span style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
        onmouseover="this.style.transform='translateY(-6px)'"
        onmouseout="this.style.transform='translateY(0)'">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
          style="width:55px; height:55px; margin-bottom:10px;">
     <div style="color:white; font-size:15px; font-weight:600;">Spring</div>
-  </div>
+  </span>
 
   <!-- Spring Boot -->
-  <div style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
+  <span style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
        onmouseover="this.style.transform='translateY(-6px)'"
        onmouseout="this.style.transform='translateY(0)'">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
          style="width:55px; height:55px; margin-bottom:10px;">
     <div style="color:white; font-size:15px; font-weight:600;">Spring Boot</div>
-  </div>
+  </span>
 
   <!-- Microservices -->
-  <div style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
+  <span style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
        onmouseover="this.style.transform='translateY(-6px)'"
        onmouseout="this.style.transform='translateY(0)'">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
          style="width:55px; height:55px; margin-bottom:10px;">
     <div style="color:white; font-size:15px; font-weight:600;">Microservices</div>
-  </div>
+  </span>
 
   <!-- JDBC -->
-  <div style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
+  <span style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
        onmouseover="this.style.transform='translateY(-6px)'"
        onmouseout="this.style.transform='translateY(0)'">
     <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png"
          style="width:55px; height:55px; margin-bottom:10px;">
     <div style="color:white; font-size:15px; font-weight:600;">JDBC</div>
-  </div>
+  </span>
  </div>
 
  ### 🛢️ DataBase
@@ -183,13 +200,13 @@ Hi 👋, I'm Sivaranjani</h1>
   gap:20px;
   margin-top:20px;
 ">
-  <div style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
+  <span style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
        onmouseover="this.style.transform='translateY(-6px)'"
        onmouseout="this.style.transform='translateY(0)'">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
          style="width:55px; height:55px; margin-bottom:10px;">
     <div style="color:white; font-size:15px; font-weight:600;">MySQL</div>
-  </div>
+  </span>
 
 </div>
 
@@ -204,40 +221,40 @@ Hi 👋, I'm Sivaranjani</h1>
 ">
 
   <!-- VS CODE -->
-  <div style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
+  <span style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
        onmouseover="this.style.transform='translateY(-6px)'"
        onmouseout="this.style.transform='translateY(0)'">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
          style="width:55px; height:55px; margin-bottom:10px;">
     <div style="color:white; font-size:15px; font-weight:600;">VS Code</div>
-  </div>
+  </span>
 
   <!-- IntelliJ -->
-  <div style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
+  <span style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
        onmouseover="this.style.transform='translateY(-6px)'"
        onmouseout="this.style.transform='translateY(0)'">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"
          style="width:55px; height:55px; margin-bottom:10px;">
     <div style="color:white; font-size:15px; font-weight:600;">IntelliJ IDEA</div>
-  </div>
+  </span>
 
   <!-- Eclipse -->
-  <div style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
+  <span style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
        onmouseover="this.style.transform='translateY(-6px)'"
        onmouseout="this.style.transform='translateY(0)'">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg"
          style="width:55px; height:55px; margin-bottom:10px;">
     <div style="color:white; font-size:15px; font-weight:600;">Eclipse</div>
-  </div>
+  </span>
 
   <!-- GitHub -->
-  <div style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
+  <span style="background:#161b22; padding:18px; border-radius:10px; text-align:center; border:1px solid #30363d; transition:0.3s;"
        onmouseover="this.style.transform='translateY(-6px)'"
        onmouseout="this.style.transform='translateY(0)'">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
          style="width:55px; height:55px; margin-bottom:10px;">
     <div style="color:white; font-size:15px; font-weight:600;">GitHub</div>
-  </div>
+  </span>
 
 </div>
 
@@ -264,8 +281,9 @@ Hi 👋, I'm Sivaranjani</h1>
 
    
   <img 
-      src="https://github-readme-stats.vercel.app/api?username=Sivaranjani784&show_icons=true&theme=tokyonight" 
-      alt="GitHub Stats"
+  src=" https://github-readme-stats.vercel.app/api?username=Sivaranjani784&show_icons=true&theme=tokyonight"
+
+  alt="GitHub Stats"
       style="
         width:380px;
         border-radius:12px;
@@ -279,8 +297,21 @@ Hi 👋, I'm Sivaranjani</h1>
    
   
   <img 
-      src="https://github-readme-streak-stats.herokuapp.com?user=Sivaranjani784&theme=tokyonight&date_format=j%20M%5B%20Y%5D"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Sivaranjani784&theme=tokyonight
+"
       alt="GitHub Streak"
+      style="
+        width:380px;
+        border-radius:12px;
+        box-shadow:0 0 12px rgba(255,255,255,0.15);
+        transition:0.3s;
+      "
+      onmouseover="this.style.transform='scale(1.03)'"
+      onmouseout="this.style.transform='scale(1)'"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivaranjani784&layout=compact&theme=tokyonight"
+      alt="Top Languages"
       style="
         width:380px;
         border-radius:12px;
