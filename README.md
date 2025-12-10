@@ -51,6 +51,7 @@
   </a>
 </p>
 </div>
+
 ### ⚙️ Backend Technologies
 <div style="margin-top:12px;">
 <p align="left">
@@ -122,7 +123,7 @@ sivaranjani-kamani-s784
 
 ---
 <div>
-  <p align="center" face="impact" font size="10">
+  <p align="center" face="impact" font size="15">
    ✨ Thank You for Visiting My Profile! 💐
 </p>
 </div>
