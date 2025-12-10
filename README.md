@@ -1,12 +1,11 @@
 <div style="color:white;">
 
   <h1 style="
-      font-size:45px; 
-      font-weight:900; 
+      font-size:45px;
+      align="center"
+    font-weight:900; 
       font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
       margin-bottom:10px
-      animation: fadeIn 2s ease-in-out;
-    align="center"
   ">
     Hi 👋, I'm Sivaranjani
   </h1>
@@ -47,148 +46,74 @@
 
 <div style="margin-top:20px;">
 
-<!-- 🎨 FRONTEND -->
-<h3>🎨 Frontend Technologies</h3>
-<p style="display:flex; gap:18px; align-items:center;">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-       width="40" height="40" style="border-radius:6px;">
-       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-       width="40" height="40" style="border-radius:6px;">
-       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-       width="40" height="40" style="border-radius:6px;">
-       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" 
-       width="40" height="40" style="border-radius:6px;">
-
+### 🎨 Frontend Technologies  
+<p align="left">
+  <a href="https://angular.io" target="_blank">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  </a>
 </p>
 
-<br/>
-
-<!-- ⚙️ BACKEND -->
-<h3>⚙️ Backend Technologies</h3>
-<p style="display:flex; gap:18px; align-items:center;">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
-       width="40" height="40" style="border-radius:6px;">
-       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
-       width="40" height="40" style="border-radius:6px;">
-       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
-       width="40" height="40" style="border-radius:6px;" title="Spring Boot">
-       
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" 
-       width="40" height="40" style="border-radius:6px;" title="Microservices">
-       
-  <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" 
-       width="40" height="40" style="border-radius:6px;" title="JDBC">
-
+### ⚙️ Backend Technologies  
+<p align="left">
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/projects/spring-framework" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" title="Spring Boot"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40" height="40" title="Microservices"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" width="40" height="40" title="JDBC"/>
+  </a>
 </p>
 
-<br/>
 
-<!-- 🗄️ DATABASE -->
-<h3>🗄️ Database Technologies</h3>
-<p style="display:flex; gap:18px; align-items:center;">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-       width="40" height="40" style="border-radius:6px;">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" 
-       width="40" height="40" style="border-radius:6px;">
-
+### 🗄️ Database Technologies  
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  </a>
 </p>
 
-<br/>
 
 <!-- 🛠️ TOOLS -->
-<h3>🛠️ Tools</h3>
-<p style="display:flex; gap:18px; align-items:center;">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
-       width="40" height="40" style="border-radius:6px;">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" 
-       width="40" height="40" style="border-radius:6px;">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" 
-       width="40" height="40" style="border-radius:6px;">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-       width="40" height="40" style="border-radius:6px;">
-
+### 🛠️ Tools  
+<p align="left">
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.eclipse.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+  </a>
 </p>
 
-</div>
 
 
 
-<div style="text-align:center; margin-top:40px;">
 
-  <h2 style="
-      color:white;
-      font-size:28px;
-      font-weight:800;
-      margin-bottom:20px;
-  ">
-    📊 GitHub Stats
-  </h2>
-
-  <div style="
-      display:flex;
-      justify-content:center;
-      flex-wrap:wrap;
-      gap:20px;
-  ">
-
-   
-  <img  
-  src="https://github-readme-stats.vercel.app/api?username=Sivaranjani784&show_icons=true&theme=tokyonight
-"
-  alt="GitHub Stats"
-      style="
-        width:380px;
-        border-radius:12px;
-        box-shadow:0 0 12px rgba(255,255,255,0.15);
-        transition:0.3s;
-      "
-      onmouseover="this.style.transform='scale(1.03)'"
-      onmouseout="this.style.transform='scale(1)'"
-    />
-
-   
-  
-  <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Sivaranjani784&theme=tokyonight
-"
-      alt="GitHub Streak"
-      style="
-        width:380px;
-        border-radius:12px;
-        box-shadow:0 0 12px rgba(255,255,255,0.15);
-        transition:0.3s;
-      "
-      onmouseover="this.style.transform='scale(1.03)'"
-      onmouseout="this.style.transform='scale(1)'"
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivaranjani784&layout=compact&theme=tokyonight"
-      alt="Top Languages"
-      style="
-        width:380px;
-        border-radius:12px;
-        box-shadow:0 0 12px rgba(255,255,255,0.15);
-        transition:0.3s;
-      "
-      onmouseover="this.style.transform='scale(1.03)'"
-      onmouseout="this.style.transform='scale(1)'"
-    />
-
-  </div>
-</div>
 
 ## 🔗 Connect With Me  
 
@@ -210,16 +135,10 @@ sivaranjani-kamani-s784
 
 
 
-<div style="text-align:center; margin-top:30px;">
 
-  <p style="
-      font-size:24px;
-      color:white;
-      font-weight:700;
-      animation: fadeText 2s infinite alternate;
-    align="center"
-  ">
+  <p face="impact">>marquee>
     ✨ Thank You for Visiting My Profile! 💐
+  </marquee>
   </p>
 
 </div>
