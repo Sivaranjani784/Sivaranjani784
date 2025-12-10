@@ -36,7 +36,7 @@
 
 ### 🎨 Frontend Technologies  
 <div style="margin-top:12px;">
-<p align="center">
+<p align="left">
   <a href="https://angular.io" target="_blank">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/>
   </a>
@@ -47,14 +47,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="37" height="37"/>
   </a>
 </p>
 </div>
 
 ### ⚙️ Backend Technologies
 <div style="margin-top:12px;">
-<p align="center">
+<p align="left">
   <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
   </a>
@@ -72,9 +72,9 @@
 
 ### 🗄️ Database Technologies  
 <div style="margin-top:12px;">
-<p align="center">
+<p align="left">
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/>
   </a>
 </p>
 </div>
@@ -82,7 +82,7 @@
 <!-- 🛠️ TOOLS -->
 ### 🛠️ Tools  
 <div style="margin-top:12px;">
-<p align="center">
+<p align="left">
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
   </a>
