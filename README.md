@@ -36,7 +36,7 @@
 
 ### 🎨 Frontend Technologies  
 <div style="margin-top:12px;">
-<p align="left">
+<p align="center">
   <a href="https://angular.io" target="_blank">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/>
   </a>
@@ -54,7 +54,7 @@
 
 ### ⚙️ Backend Technologies
 <div style="margin-top:12px;">
-<p align="left">
+<p align="center">
   <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
   </a>
@@ -72,7 +72,7 @@
 
 ### 🗄️ Database Technologies  
 <div style="margin-top:12px;">
-<p align="left">
+<p align="center">
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   </a>
@@ -82,7 +82,7 @@
 <!-- 🛠️ TOOLS -->
 ### 🛠️ Tools  
 <div style="margin-top:12px;">
-<p align="left">
+<p align="center">
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
   </a>
