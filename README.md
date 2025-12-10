@@ -1,17 +1,9 @@
-<div style="color:white;">
 
-  <h1 style="
-      font-size:45px;
-      align="center"
-    font-weight:900; 
-      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-      margin-bottom:10px
-  ">
-    Hi 👋, I'm Sivaranjani
+
+  <h1 align="center" font size="15" face="impact" >
+   <b>Hi 👋, I'm Sivaranjani</b> 
   </h1>
-<h3 align="center">🎯Aspiring Full Stack Web Developer</h3>
-</div>
-
+<h3 align="center" font size="12">🎯Aspiring Full Stack Web Developer💻</h3>
 
 
 <p align="center">
@@ -47,6 +39,7 @@
 <div style="margin-top:20px;">
 
 ### 🎨 Frontend Technologies  
+<div style="margin-top:12px;">
 <p align="left">
   <a href="https://angular.io" target="_blank">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/>
@@ -61,14 +54,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
   </a>
 </p>
-
+</div>
 ### ⚙️ Backend Technologies  
+<div style="margin-top:12px;">
 <p align="left">
   <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/projects/spring-framework" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/>
   </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" title="Spring Boot"/>
@@ -80,9 +71,11 @@
     <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" width="40" height="40" title="JDBC"/>
   </a>
 </p>
+</div>
 
 
 ### 🗄️ Database Technologies  
+<div style="margin-top:12px;">
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
@@ -91,10 +84,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
   </a>
 </p>
-
+</div>
 
 <!-- 🛠️ TOOLS -->
 ### 🛠️ Tools  
+<div style="margin-top:12px;">
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
@@ -109,6 +103,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
   </a>
 </p>
+</div>
 
 
 
@@ -136,7 +131,8 @@ sivaranjani-kamani-s784
 
 
 
-  <p face="impact">>marquee>
+  <p face="impact">
+    <marquee>
     ✨ Thank You for Visiting My Profile! 💐
   </marquee>
   </p>
