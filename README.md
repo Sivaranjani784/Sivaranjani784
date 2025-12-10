@@ -30,11 +30,11 @@
 ---
 <!-- ⭐ INLINE TECH STACK (Frontend + Backend + Tools) -->
 
-## 🚀 Tech Stack
 
 ---
 
 <!--  COMPLETE INLINE TECH STACK SECTION -->
+## 🚀 Tech Stack
 
 <div style="margin-top:20px;">
 
@@ -55,7 +55,7 @@
   </a>
 </p>
 </div>
-### ⚙️ Backend Technologies  
+### ⚙️ Backend Technologies
 <div style="margin-top:12px;">
 <p align="left">
   <a href="https://www.java.com" target="_blank">
@@ -127,14 +127,16 @@ sivaranjani-kamani-s784
   <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
 </p>
+---
 
 
 
 
-  <p face="impact">
-    <marquee>
-    ✨ Thank You for Visiting My Profile! 💐
-  </marquee>
+  <p face="impact" font size="10" align="center>
+  
+    
+ ✨ Thank You for Visiting My Profile! 💐
+ 
   </p>
 
 </div>
