@@ -28,10 +28,6 @@
 
 
 ---
-<!-- ⭐ INLINE TECH STACK (Frontend + Backend + Tools) -->
-
-
----
 
 <!--  COMPLETE INLINE TECH STACK SECTION -->
 ## 🚀 Tech Stack
@@ -68,20 +64,16 @@
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40" height="40" title="Microservices"/>
   </a>
   <a href="#" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" width="40" height="40" title="JDBC"/>
+    <img src="https://media.licdn.com/dms/image/v2/D4E12AQEdS0M4GZ3ZMA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1668596168560?e=2147483647&v=beta&t=6aPntVft1UIyNirhownA97fUIjPpv0pQ5TLq6Xe_5z8" width="40" height="40" title="JDBC"/>
   </a>
 </p>
 </div>
-
 
 ### 🗄️ Database Technologies  
 <div style="margin-top:12px;">
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
   </a>
 </p>
 </div>
@@ -107,7 +99,7 @@
 
 
 
-
+---
 
 
 ## 🔗 Connect With Me  
@@ -127,19 +119,15 @@ sivaranjani-kamani-s784
   <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
 </p>
+
 ---
-
-
-
-
-  <p face="impact" font size="10" align="center>
-  
-    
- ✨ Thank You for Visiting My Profile! 💐
- 
-  </p>
-
+<div>
+  <p align="center" face="impact" font size="10">
+   ✨ Thank You for Visiting My Profile! 💐
+</p>
 </div>
+
+
 
 
 
