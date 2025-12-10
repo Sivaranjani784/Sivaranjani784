@@ -1,11 +1,12 @@
-<div style="text-align:center; color:white;">
+<div style="color:white;">
 
   <h1 style="
       font-size:45px; 
       font-weight:900; 
       font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-      margin-bottom:10px;
+      margin-bottom:10px
       animation: fadeIn 2s ease-in-out;
+    align="center"
   ">
     Hi 👋, I'm Sivaranjani
   </h1>
@@ -29,9 +30,10 @@
 
 📚 Always exploring better ways to write clean code and create meaningful digital experiences.
 
-👉 Building a solid foundation in backend technologies, including Java, Spring Boot, and Microservices-based development.
+ 🌱 Building a solid foundation in backend technologies, including Java, Spring Boot, and Microservices-based development.
 
-📨 **Contact:** sivaranjanikamini@gmail.com
+📩 **Contact:** sivaranjanikamini@gmail.com
+
 
 
 ---
@@ -41,7 +43,7 @@
 
 ---
 
-<!-- ⭐ COMPLETE INLINE TECH STACK SECTION -->
+<!--  COMPLETE INLINE TECH STACK SECTION -->
 
 <div style="margin-top:20px;">
 
@@ -215,6 +217,7 @@ sivaranjani-kamani-s784
       color:white;
       font-weight:700;
       animation: fadeText 2s infinite alternate;
+    align="center"
   ">
     ✨ Thank You for Visiting My Profile! 💐
   </p>
